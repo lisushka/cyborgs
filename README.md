@@ -2,7 +2,7 @@
 
 ## Presentations
 
-- [**ComfyCon 2022 Too**](https://www.youtube.com/watch?v=JXh1TwGDRVM), 2022-11-20 (open captions, [transcript](transcript.md), CC BY-NC-SA 4.0)
+- [**ComfyCon 2022 Too**](https://www.youtube.com/watch?v=JXh1TwGDRVM), 2022-11-20 (open captions, [transcript](transcript-comfycon2022.md), CC BY-NC-SA 4.0)
 
 ## References
 
