@@ -1,6 +1,8 @@
 # Cyborg Security - Transcript
 
-I would like to acknowledge the Wurundjeri people of the Kulin Nation, on whose land this presentation was recorded.  This is, and always will be, Aboriginal land.  Their sovereignty was never ceded.  Despite the somewhat idiosyncratic nature of this presentation, I would also like to acknowledge the Aboriginal and Torres Strait Islander mentors that I had growing up.  Although it's not their traditional type of stories, I would not be able to tell stories the way that I did if I hadn't had the benefit of their teachings.
+SHANNA: Yep, let's kick it off!
+
+DAWN: I would like to acknowledge the Wurundjeri people of the Kulin Nation, on whose land this presentation was recorded.  This is, and always will be, Aboriginal land.  Their sovereignty was never ceded.  Despite the somewhat idiosyncratic nature of this presentation, I would also like to acknowledge the Aboriginal and Torres Strait Islander mentors that I had growing up.  Although it's not their traditional type of stories, I would not be able to tell stories the way that I did if I hadn't had the benefit of their teachings.
 
 Good day to you all!  It is wonderful to see you all here today for this briefing on Cyborg Security.  I hope that you all found the briefing centre alright. Now, before we commence, there is some additional data which all of you are going to need.  If you wish to take out the devices with which you have been issued - you will find them in your pockets - and scan the detailed information which is up on the big screen currently, ah, you will be taken to all of the additional data that you need in order to follow along with this briefing.
 
@@ -45,3 +47,75 @@ I hope that this briefing has given you some information on whether you wish to 
 Now if you're going into this purely recreationally, to enhance your capabilities in some manner rather than to replace capabilities which are actively harmful to you, then the important thing to understand is that as far as you are able, you can hack these devices yourself.  In fact, if you're in a medico-cybernetic scenario and you find a particularly willing manufacturer, you may even be able to do that yourself.  Test the limits of it!  I talked a little bit earlier about insulin pumps as one of the very early case studies, and they are a brilliant example of the cyborg community coming together to produce augments which would not have been possible without experimentation.  Again - I have given briefings on this before, if you're curious about what the whole story is, go and see those.
 
 It has been lovely to be here to talk to you all today on an area of some expertise of mine, and I hope that regardless of whether or not you become a cyborg in future, you leave this briefing today informed and with a deeper understanding of the challenges that face us as we move towards a more augmented future.
+
+IAN: Hello, Dawn!  How are you?
+
+SHANNA: Hello!
+
+DAWN: Hello!  I am in a hotel room - I am coming to you as a sci-fi B-movie cyborg from a hotel room in Los Angeles.
+
+SHANNA: Whoo!
+
+IAN: What time- what time is it over there at the moment?
+
+DAWN: Ah, it is - 21:39.
+
+IAN: Ohhhhh.
+
+SHANNA: Not too bad, not too bad.  When did you arrive, today?
+
+DAWN: Ah, yesterday.
+
+SHANNA: Yesterday.  Alright, alright.  I loved your talk.
+
+DAWN: Thank you!
+
+IAN: I did notice one interesting joke, erm, in the, erm, in the- in the chat about the heart, erm that was catching fire, in that that was, er a bad case of heartburn.
+
+DAWN: Yeeeeeaaaah.  [laughs]
+
+SHANNA: [laughs]
+
+IAN: But I- but I think what's interesting - and I've been trying to have this argument at work recently - is the- the significant relationship between security and safety.
+
+DAWN: Yes.
+
+IAN: I.E., erm, linking the two things together.  So my- my dad's actually a safety engineer and I do cyber, and the amount of conversations that we've had where they're actually so interwoven and linked; that you can have a security issue that then causes safety aspects, or a safety issue that's- you know, yada yada.
+
+DAWN: Yeah.
+
+IAN: And I think this is another great example of that, but it's more direct to a person.
+
+DAWN: Yes.  Yes.  This is an argument that I've made many times in talking about the crossover between security and accessibility is that when you're dealing with medical devices in particular, security is actually an accessibility issue, and it's that kind of crossover between security, accessibility, and safety; like, what do you feel safe having attached to your body?  Or what do you feel safe actually putting in your body?
+
+IAN: Yeah, and because- 
+
+DAWN: And, like- in particular in that heart- hackable heart- you know, the hackable hearts, or the heart catching on fire thing, like if you have heart failure and you're using some sort of augmentation to deal with that; okay, the failure state of your heart sucking is your heart sucking.  But the failure state of something implanted in your body catching on fire - that's not a trade-off you want to have to decide between.
+
+IAN: It's- it's a different set of risks, right?  By-
+
+DAWN: Yeah.  Yeah.
+
+IAN: You think that you're saving yours- not saving yourself, but you're improving your situation by having these devices-
+
+DAWN: Yeah.
+
+IAN: -but they actually come with a completely different set of risks that you won't necessarily think of.
+
+DAWN: Yeah.  And that's sort of my whole thing is you can never partic- you can never entirely mitigate those risks, but the aim is to be more informed about what the risks actually are; and to understand okay, if you're doing this, what are you doing to yourself, and understanding what the failure states might look like and what they mean.  Because then at least if you do end up with that fail deadly safety sort of scenario you're prepared for it rather than just going into something which is you know you think this is great and you've sorted yourself out and then it just blows up.
+
+IAN: so I suppose a question and if anybody else has any questions please put them in the discord chat a question from me you know we we only see great change in cyber when something really bad happens so I think the example recently is the Optus breach and the regulatory things that are coming in place with the Optus breach do you think it's going to take something like that to happen before medical because I I think the fair assumption is medical devices are not as secure as they need to be.
+
+DAWN: Oh yeah.
+
+IAN: I think that's the best I think that's a fair statement-
+
+DAWN: Yeah.
+
+IAN -I know Alex talks about it last time.
+
+DAWN: Yeah.
+
+IAN: Is there a way that we can get medical device uh manufacturers to make that change without having to go down that path of major incident major issues first?
+
+DAWN: [exhales] I mean at that point you've really got to do it in a regulatory manner like you need you need one of the drug Regulators or whomever regulates those devices in whichever country to actually step in.  The insulin pump use case is a super interesting one because that sort of illustrates the difference in regulatory Frameworks between a lot of the countries where this stuff goes on like I mean there's a whole other story and I think I might have linked the talks where I talk about the insulin pump use case in in the um in the sources that were up and I'll stick those in the Discord immediately we're done here but the um the insulin pumps is this whole really interesting use case but you can actually see with that the regulatory framework in every country is really different and in some countries it's very much like you know we expect the device manufacturers to do this in some places in Europe it's like hey you want to hack together an open system here's some insulin pumps that can do it go for your life whereas if you're in a lot of other countries you are relying on getting in through existing security vulnerabilities so it's it's very complicated and it's probably going to take The Regulators somewhere to step up and say hey we're not approving your devices until you're doing things like proper penetration testing so do I think it's ever going to happen no well that's the thing there's there's a there's a hope right but then there's a realistic statement I guess um last question from me and it's probably relevant noting your interest also in things like Linux conf is open source and um manageable you know um what's the term I'm looking for um repairable and all those kind of Hardware the answer in this case or does that potentially introduce some issues on its own as well well I quoted in a previous presentation that I have done I quoted Lana Brindley who's a frequent contributor at LCA and is an excellent human um she did a presentation called Facebook Dynamite Uber bombs and you and the line that I took away from that is open source bad is better than closed Source bad the reason for that is open source bad means you've actually got more eyes on it yeah so the advantage of things like open source setting up devices in that manner is you can actually have other people look at it and that's going to give you a much more informed look at where your risks are when it's closed source and you know the manufacturer is not releasing the source code to anyone or when it's Hardware that's built and you don't get to see a schematic it might be that they're a super super obvious failure points that a decent engineer is going to be able to pick up if they spend enough time reverse engineering it but if that information is not public yeah okay your competitors can reverse engineer it but having that information private makes it much harder for people to actually find those risks so I'm all for open source everything around medical devices where it's possible yes you introduce risks there that people are going to find the problems so it then becomes a thing of do you think the good do you think the people who are on your side are going to find the problems better than the people who aren't no that's fantastic look thank you very much Donna that was an amazing talk and thank you thank you so much for having me from the middle of the night thank you for being here but yeah thanks very much
